@@ -4,11 +4,11 @@
 
 ### Category Name 1 
 
-[Project 1 Title](https://aaronbyrd86.github.io/random-quotes/)
+[Random Quote Generator](https://aaronbyrd86.github.io/random-quotes/)
 <img src="images/project1_screen.png?raw=true"/>
 
 ---
-[Project 2 Title](https://aaronbyrd86.github.io/techdegree-project2/)
+[Pagination](https://aaronbyrd86.github.io/techdegree-project2/)
 <img src="images/project2_screen.png?raw=true"/>
 
 ---
