@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Project 1 Title](https://aaronbyrd86.github.io/random-quotes/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/project1_screen?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
