@@ -16,6 +16,8 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+[Project 4 Title](https://aaronbyrd86.github.io/project4/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ### Category Name 2
 
