@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](https://github.com/aaronbyrd86/random-quotes)
+[Project 1 Title](https://aaronbyrd86.github.io/random-quotes/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
