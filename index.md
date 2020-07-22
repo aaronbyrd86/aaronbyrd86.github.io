@@ -9,13 +9,19 @@
 
 ---
 [Project 2 Title](https://aaronbyrd86.github.io/techdegree-project2/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/project2_screen.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 3 Title](https://aaronbyrd86.github.io/project3/)
+<img src="images/project3_screen.png?raw=true"/>
 
 ---
+[Project 4 Title](https://aaronbyrd86.github.io/techdegree-project4/)
+<img src="images/project4_screen.png?raw=true"/>
+
+---
+[Project 5 Title](https://aaronbyrd86.github.io/techdegree-project5/)
+<img src="images/project5_screen.png?raw=true"/>
 
 ### Category Name 2
 
